@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "custom") (type "KiCad") (uri "${KIPRJMOD}/boardloaf-CustomFoot.pretty/custom.pretty") (options "") (descr ""))
+	(lib (name "boardloaf-he-CustomFoot") (type "KiCad") (uri "${KIPRJMOD}/boardloaf-he-CustomFoot.pretty") (options "") (descr ""))
+	(lib (name "cantor-he-CustomFoot") (type "KiCad") (uri "${KIPRJMOD}/cantor-he-CustomFoot.pretty") (options "") (descr ""))
+)
